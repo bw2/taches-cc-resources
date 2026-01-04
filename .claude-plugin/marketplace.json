@@ -10,10 +10,10 @@
   },
   "plugins": [
     {
-      "name": "taches-cc-resources",
+      "name": "taches",
       "source": "./",
       "description": "Skills and commands for prompt engineering, MCP servers, subagents, hooks, and productivity workflows",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "strict": true
     }
   ]
